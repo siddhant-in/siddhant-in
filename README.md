@@ -17,7 +17,6 @@
 <a href="https://instagram.com/siddhant_61">
 <img src="https://img.shields.io/badge/Instagram-12233d?style=for-the-badge&logo=instagram&logoColor=70a5fd" alt="Instagram"/>
 </a>
-<!-- <img src="https://komarev.com/ghpvc/?username=siddhant-in&label=Profile%20Views&color=12233d&style=for-the-badge" alt="Profile Views"/> --
 
 </div>
 
@@ -66,7 +65,7 @@ public class SiddhantJagtap {
 <tr>
 <td align="left"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=java,js&theme=dark" alt="Languages"/>
 </td>
 </tr>
 
